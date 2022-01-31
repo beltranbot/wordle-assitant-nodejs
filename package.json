@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --inspect-brk=0.0.0.0 "
+  },
+  "author": "",
+  "license": "ISC"
+}
